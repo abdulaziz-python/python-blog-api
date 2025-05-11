@@ -1,0 +1,8 @@
+# requirements.txt
+django==5.0.7
+djangorestframework==3.16.0
+django-cors-headers==4.7.0
+pillow==11.1.0
+django-unfold==0.57.0
+python-dotenv==1.0.0
+gunicorn==21.2.0
